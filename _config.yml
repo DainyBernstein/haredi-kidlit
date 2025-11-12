@@ -20,14 +20,14 @@ source-code: "https://github.com/CollectionBuilder/collectionbuilder-gh"
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "American Haredi Childrens Books"
+title: American Haredi Childrens Books
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "A database of books published for American ultra-Orthodox Jewish children"
+tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "American Haredi Childrens Books is a database of books published for American ultra-Orthodox Jewish children."
+description:
 # creator of the digital collection, to appear in meta tags
-author: "DainyBernstein"
+author: DainyBernstein
 
 
 ##########
